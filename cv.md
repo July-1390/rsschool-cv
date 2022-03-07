@@ -31,7 +31,7 @@
 ---
 
 It's a small part of my pets' project codebase. A react component that handles user votes on films.
-Here I use React Hooks, TypeScript
+Here I use React Hooks, TypeScript.
 
 Link to my project: [RateFilm](https://july-1390.github.io/rate-film-app/)
 Link to the code: [Code](https://github.com/July-1390/rate-film-app/blob/main/src/components/Votes.tsx)
@@ -56,3 +56,33 @@ const handleSubmit = (newVoteValue: number) => {
     });
   };
 ```
+
+### Work experience
+---
+
+- ##### Media Plus 
+Web Developer (work for 2 month)
+
+Link: https://mobirise.com/
+ This site is a free offline app for Windows and Mac to easily create website, landing pages and etc. (https://mobirise.com/). It was a one project job where I made one themes, which included amount of website elements and three layouts.
+
+ - ##### Gramotool
+Frontend Developer (work for 3 month)
+
+Link: https://gramotool.ru/
+Gramotool is a set of helpful tools for active instagram users.
+I have been involved into development of Gramotool project. Help team build web pages based on a specified design and I am like a junior assistant. Examples of work I have done:
+
+- make new pages: "Privacy Policy" and "Download Photo"
+- search for instagram accounts
+- ui design
+
+Acquired experience with React, next.js, styled-components.
+
+### Languages
+---
+
+- English \- Intermediate (according to the online test at [www.efset.org](https://www.efset.org/quick-check))<br>
+![EFset Score](/images/english_level.png)
+- Russian \- Native
+- Czech \-Basic

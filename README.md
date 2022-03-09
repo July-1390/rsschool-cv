@@ -1,2 +1,2 @@
 # rsschool-cv
-my markdown CV for RSSchool
+https://July-1390.github.io/rsschool-cv/cv
